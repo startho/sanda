@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+.mx-auto {
+    margin: 0 auto;
+}
+.py-10 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.mytop-20 {
+    margin-top: 20px;
+}
+
+.my-30 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.my-50 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.text-center {
+    text-align: center;
+}
+.text-upper {
+    text-transform: uppercase;
+}
+.divider {
+    border: 0;
+    height: 1px;
+    background-color: #d075c3;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+
+.bg-title {
+    color: #eb89dd;
+    font-size: 20px;
+}
+
+.cf {
+   width: 600px;
+   height: 350px;
+}
+
+.cf {
+    display: block;
+}
+.movie {
+    font-size: 18px;
+}
+.images {
+    width: 600px;
+    height: 230px;
+    font-size: 0;
+}
+.sns {
+    font-size: 15px;
+}
+.delivery {
+    font-size: 18px;
+}
+.delivery-text {
+    font-size: 15px;
+}
+
+.tel-text {
+    font-size: 20px;
+    color: #d075c3;
+    font-style: italic;
+}
+.adress {
+    font-size: 12px;
+}
+
+.ownership-en {
+    font-size: 11px;
+    line-height: 100px;
+    background-color: #d075c3;
+    }
+.brand {
+    font-style: italic;
+}
