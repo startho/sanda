@@ -49,8 +49,12 @@
 }
 
 .cf {
-   width: 600px;
-   height: 350px;
+   max-width: 600px;
+   width: 100%;
+   height: auto;
+}
+.cf img {
+    width: 100%;
 }
 
 .cf {
@@ -60,12 +64,24 @@
     font-size: 18px;
 }
 .images {
-    width: 600px;
-    height: 230px;
+    max-width: 600px;
+    width: 100%;
+    height: auto;
     font-size: 0;
 }
+.images img {
+    width: 50%;
+}
 .sns {
+    letter-spacing: 15px;
+    padding-left: 15px;
+    width: 300px;
+    height: 35px;
+    border: 1px solid #d075c3;
+}
+.sns-text {
     font-size: 15px;
+    line-height: 35px;
 }
 .delivery {
     font-size: 18px;
